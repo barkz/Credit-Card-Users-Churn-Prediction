@@ -6,6 +6,8 @@ The Thera bank recently saw a steep decline in the number of users of their cred
 
 Customers’ leaving credit card services would lead the bank to loss, so the bank wants to analyze the data of customers and identify the customers who will leave their credit card services and the reason for same – so that the bank could improve upon those areas.
 
+Grade: 60/60
+
 ## Objective
 
 You as a Data Scientist at Thera Bank need to come up with a classification model that will help the bank improve its services so that customers do not renounce their credit cards.
